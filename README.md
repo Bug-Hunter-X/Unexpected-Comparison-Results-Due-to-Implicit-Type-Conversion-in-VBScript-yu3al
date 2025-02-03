@@ -1,0 +1,1 @@
+This repository demonstrates a common error in VBScript related to implicit type conversion during comparisons. The original code (`bug.vbs`) shows a comparison that produces an unexpected result because of implicit type conversion. The solution (`bugSolution.vbs`) showcases how to avoid this problem by explicitly converting the types before the comparison.
